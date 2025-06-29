@@ -23,4 +23,4 @@ spring:
       port: 6379
 
 limits:
-  max-tasks-per-user: 5
+  max-tasks-per-user: 10
